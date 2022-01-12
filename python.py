@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-        printf("hello world");
+        printf("rowdy boys movie is better than RRR");
         }
 
+        
